@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "754744639238",
+    "project_id": "tharibucks-4181c",
+    "storage_bucket": "tharibucks-4181c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754744639238:android:a4264c8ae8d47ddca1e887",
+        "android_client_info": {
+          "package_name": "com.example.tharibucks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754744639238-flkhegd3li69db4v5dug8h1nn665sh03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyB5VdECfudJv120mwuSZX7aD4XM1BTFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754744639238-flkhegd3li69db4v5dug8h1nn665sh03.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "754744639238-vlc1i4ojmdo7rhpjlcolp2jforrmahle.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tharibucks"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
